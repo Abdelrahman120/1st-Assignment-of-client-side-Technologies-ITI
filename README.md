@@ -1,0 +1,1 @@
+this is the first Assignment in ITI client side Technologies in training in ITI ,in it i have made some tasks AS Table in it some info , A page with a brief about me ,and an advanced task that divide the image into 4 parts , each part go to different link.
